@@ -1,3 +1,6 @@
 [submodule "release-display-client"]
 	path = release-display-client
 	url = https://github.com/ktakahiro150397/vue_gamepad_display
+[submodule "release-display-server"]
+	path = release-display-server
+	url = https://github.com/ktakahiro150397/vue_gamepad_server
